@@ -25,7 +25,7 @@ SECRET_KEY = 'ru#2i5$23-22a8-y*h7cw_9$dvxwtizrreg1i8$ys$-b^tp7bp'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['uribrasil.pythonanywhere.com']
 
 
 # Application definition
